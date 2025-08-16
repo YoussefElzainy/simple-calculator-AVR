@@ -31,6 +31,3 @@ AVR-Calculator/
 ## 📸 Demo
 <img width="1022" height="558" alt="image" src="https://github.com/user-attachments/assets/97e9feac-1555-4f52-ac5c-5ceb942bf8ea" />
 
-
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
