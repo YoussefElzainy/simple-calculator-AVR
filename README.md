@@ -23,9 +23,12 @@ The calculator supports basic arithmetic operations:
 
 ## 📂 Project Structure
 AVR-Calculator/
-├── src/ # source code (C files)
+├── code/ # source code (C files)
+
 ├── inc/ # header files
+
 ├── simulation/ # Proteus project files
+
 └── README.md # project documentation
 
 ## 📸 Demo
